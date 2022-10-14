@@ -5,6 +5,7 @@
 ### [Added]
 
 ### [Changed]
+- Modify the folder structure of this repository for easliy developing.
 
 ### [Fixed]
 
