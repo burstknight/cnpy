@@ -1,3 +1,6 @@
+# cnpy
+This repositry is forked from [rogersce/cnpy](https://github.com/rogersce/cnpy).
+
 # Purpose:
 
 NumPy offers the `save` method for easy saving of arrays into .npy and `savez` for zipping multiple .npy arrays together into a .npz file. 
